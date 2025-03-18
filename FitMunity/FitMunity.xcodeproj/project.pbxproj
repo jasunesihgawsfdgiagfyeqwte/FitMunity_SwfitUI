@@ -29,9 +29,22 @@
 		0B9785E32D892766000EB4FF /* FitMunityUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "\U0010FitMunityUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		0B9785EB2D892766000EB4FF /* Exceptions for "FitMunity" folder in "FitMunity" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = 0B9785C12D892765000EB4FF /* FitMunity */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		0B9785C42D892765000EB4FF /* FitMunity */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				0B9785EB2D892766000EB4FF /* Exceptions for "FitMunity" folder in "FitMunity" target */,
+			);
 			path = "\U0010FitMunity";
 			sourceTree = "<group>";
 		};
